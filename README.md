@@ -12,7 +12,6 @@ A modern and responsive landing page to showcase a product or service with a cle
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript
 
 ## Installation
 # Clone the repository
