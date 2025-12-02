@@ -1,2 +1,23 @@
-# product-landing-page
-A responsive product landing page designed with HTML and CSS. Includes product features, pricing section, and call-to-action components with a professional layout.
+# Product Landing Page
+
+## Description
+A modern and responsive landing page to showcase a product or service with a clean design and call-to-action sections.
+
+## Features
+- Responsive layout for desktop and mobile
+- Product details and images
+- Call-to-action buttons
+- Pricing/features section
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Installation
+# Clone the repository
+git clone https://github.com/yourusername/product-landing-page.git
+
+# Open the project
+cd product-landing-page
+# Open index.html in your browser
